@@ -1,0 +1,135 @@
+html, body{
+
+    margin: 0px;
+    background-color: #0d1415;
+
+}
+
+header {
+
+    background-color: #10162b;
+    color: #fff;
+    width: 98%;
+    height: 200px;
+    margin: 1%;
+    border-radius: 10px;
+
+}
+
+header h1{
+
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sansserif;
+    padding: 60px;
+    font-size: 50px;
+
+}
+
+.wrapper {
+
+    background-color: #10162b;
+    width: 98%;
+    height: 400px;
+    margin: 1%;
+    border-radius: 10px;
+    
+}
+
+.wrapper .page{
+
+    width: 19%;
+    height: 180px;
+    background-color: #202c4c;
+    display: inline-block;
+    margin: 0.4%;
+    border-radius: 10px;
+
+}
+
+footer {
+
+    background-color: #10162b;
+    color: #fff;
+    width: 98%;
+    height: 60px;
+    margin: 1%;
+    border-radius: 10px;
+}
+
+footer p{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.image_link{
+
+    height: 170px;
+    width: 15.5vw;
+    margin: 1% 0 1% 8%;
+    
+}
+
+.image_link:hover {
+
+    filter: grayscale(65%);
+    
+}
+
+.image_link_ubuntu{
+
+    height: 170px;
+    width: 8vw;
+    margin: 1% 0 1% 25%;
+
+}
+
+.image_link_ubuntu:hover{
+
+    filter: grayscale(65%);
+    
+}
+
+.image_link_windows{
+
+    height: 170px;
+    width: 8vw;
+    margin: 1% 0 1% 25%;
+    
+}
+
+.image_link_windows:hover{
+
+    filter: grayscale(65%);
+    
+}
+
+.image_link_firefox{
+
+    height: 170px;
+    width: 17vw;
+    margin: 1% 0 1% 5%;
+    
+}
+
+.image_link_firefox:hover{
+
+    filter: grayscale(65%);
+    
+}
+
+.image_link_macos{
+
+    height: 170px;
+    width: 10vw;
+    margin: 1% 0 1% 22%;
+    
+}
+
+.image_link_macos:hover{
+
+    filter: grayscale(65%);
+    
+}
